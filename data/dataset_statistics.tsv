@@ -1,0 +1,4 @@
+dataset	path	target_0	target_1	target_3	target_5	total
+raw_pre_augmentation	data/raw_preaugmentation_clean01_plus_class3_class5.jsonl	1142	933	103	42	2220
+docking_filtered_base	data/docking_filtered_base_train_3528.jsonl	1142	933	819	634	3528
+self_training_3000_each	data/self_training_plus_3000_per_class_deduplicated.jsonl	4142	3933	3819	3634	15528
